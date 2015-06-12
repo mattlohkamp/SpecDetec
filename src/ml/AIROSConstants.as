@@ -1,4 +1,4 @@
-﻿package ml.SpecDetec	{
+﻿package ml	{
 	public class AIROSConstants	{
 		public static const WINDOWS:String = 'windows';
 		public static const MAC:String = 'mac';
