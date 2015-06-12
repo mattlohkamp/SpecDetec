@@ -38,4 +38,4 @@
   <icon/>
   <customUpdateUI>false</customUpdateUI>
   <allowBrowserInvocation>false</allowBrowserInvocation>
-</application>
+  <supportedProfiles>extendedDesktop mobileDevice extendedMobileDevice tv extendedTV</supportedProfiles></application>

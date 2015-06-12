@@ -11,7 +11,7 @@
 			SpecDetec.init(renderSpecs);
 		}
 		private function renderSpecs():void	{
-			trace(SpecDetec.ready);
+			trace(SpecDetec.cpuName);
 		}
 	}
 	

@@ -69,6 +69,6 @@ Each of these properties will return `undefined` if they have *not yet* been def
     trace(SpecDetec.CPUIsIntel);    //  returns 'undefined' because init has not completed
     SpecDetec.init(function():void{
         trace(SpecDetec.CPUIsIntel);    //  returns true/false depending on system
-        trace(SpecDetec.RAMtotal);    //  returns 'null' because (for the sake of example) the data could not be accessed
+        trace(SpecDetec.RAMtotal);    //  returns 'null' because (for the sake of this example) the data could not be accessed
     });
 ```
